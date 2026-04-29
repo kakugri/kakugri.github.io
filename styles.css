@@ -292,6 +292,33 @@ a {
   font-size: 0.95rem;
 }
 
+.footer-title {
+  color: var(--ink);
+  font-weight: 700;
+  margin-bottom: 0.2rem;
+}
+
+.footer-note {
+  color: var(--muted);
+}
+
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.85rem 1rem;
+  align-items: center;
+}
+
+.footer-links a {
+  color: var(--teal);
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.footer-links a:hover {
+  color: var(--teal-deep);
+}
+
 @media (max-width: 860px) {
   .topbar-inner,
   .footer-inner {
