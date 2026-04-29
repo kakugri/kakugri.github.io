@@ -21,12 +21,12 @@
 
   <text x="230" y="156" fill="#8d4627" font-family="'Gill Sans', 'Trebuchet MS', sans-serif" font-size="24" letter-spacing="5">KAKUGRI.DEV</text>
   <text x="110" y="252" fill="#162129" font-family="'Iowan Old Style', 'Palatino Linotype', serif" font-size="60" font-weight="600">
-    <tspan x="110" dy="0">Security engineering, identity systems,</tspan>
+    <tspan x="110" dy="0">Cloud identity security, anomaly analysis,</tspan>
     <tspan x="110" dy="72">and public technical work.</tspan>
   </text>
   <text x="110" y="410" fill="#44545d" font-family="'Gill Sans', 'Trebuchet MS', sans-serif" font-size="30">
-    <tspan x="110" dy="0">Root landing page for Kingdom Mutala Akugri.</tspan>
-    <tspan x="110" dy="40">Featured project: GIFTS at kakugri.dev/gifts-site/</tspan>
+    <tspan x="110" dy="0">Public profile for Kingdom Mutala Akugri.</tspan>
+    <tspan x="110" dy="40">Featured project, publications, and technical profiles.</tspan>
   </text>
 
   <rect x="110" y="470" width="340" height="56" rx="28" fill="#162129"/>
